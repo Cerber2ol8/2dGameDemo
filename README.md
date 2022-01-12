@@ -20,7 +20,7 @@ actionSpace = {'stand':0,'walk':1,'run':2,'jump':3,'attack':4,'stick':5,
 # 动作系统combat
 角色碰撞和攻击检测，简单UI（血条动画），简单敌人AI控制
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/combat.gif)
-# 简单背包系统
+# 简单背包实现
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/04.png)
 
 # 简单的地图边界编辑器（地图边界绘制）
