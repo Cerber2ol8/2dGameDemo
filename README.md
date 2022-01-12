@@ -10,7 +10,7 @@ pygame版本1.9.6
 （运行该demo需要提前下载资源目录src和data）
 
 
-![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/01.png)
+![image](https://raw.githubusercontent.com/Cerber2ol8/2dGameDemo/master/imgs/01.png)
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/02.png)
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/03.png)
 Demo目前主要包括以下部分：
