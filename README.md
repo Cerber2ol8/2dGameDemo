@@ -11,7 +11,7 @@ actionSpace = {'stand':0,'walk':1,'run':2,'jump':3,'attack':4,'stick':5,
 'dead':11,'combo':12,'con_combo':13,'swordSkill':14}
 
 图像资源加载和处理、序列帧的播放和控制、镜头移动和跟随、地图碰撞检测
-
+imgs/01.png
 角色碰撞和攻击检测
 
 简单UI（血条动画）
