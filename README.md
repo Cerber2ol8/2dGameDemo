@@ -3,7 +3,9 @@ Pygame Simple 2d game demo
 
 # 使用Pygame制作的2d动作游戏demo
 pygame版本1.9.6
-使用pygame库编写的2d动作游戏demo，可以直接下载dist.exe 运行（由pyinstaller生成的可执行程序）
+使用pygame库编写的2d动作游戏demo，可以直接下载game.exe 运行（由pyinstaller生成的可执行程序,体积偏大无法上传github）
+链接：https://pan.baidu.com/s/19e5o-idWOZ03OVp_vP7h7w?pwd=bifi 
+提取码：bifi 
 
 （运行该demo需要提前下载资源目录src和data）
 
