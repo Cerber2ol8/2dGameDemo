@@ -3,7 +3,7 @@ Pygame Simple 2d game demo
 
 # 使用Pygame制作的2d动作游戏demo
 pygame版本1.9.6
-
+使用pygame库编写的2d动作游戏demo，可以直接下载dist.exe 运行（需要资源目录src,data）
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/01.png)
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/02.png)
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/03.png)
@@ -17,9 +17,8 @@ actionSpace = {'stand':0,'walk':1,'run':2,'jump':3,'attack':4,'stick':5,
 # 图像资源加载和处理、序列帧的播放和控制、镜头移动和跟随、地图碰撞检测
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/normal.gif)
 
-# 角色碰撞和攻击检测
-简单UI（血条动画）
-简单敌人AI控制
+# 动作系统combat
+角色碰撞和攻击检测，简单UI（血条动画），简单敌人AI控制
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/combat.gif)
 # 简单背包系统
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/04.png)
