@@ -25,7 +25,7 @@ actionSpace = {'stand':0,'walk':1,'run':2,'jump':3,'attack':4,'stick':5,
 
 # 动作系统combat
 角色碰撞和攻击检测，简单UI（血条动画），简单敌人AI控制
-![image](https://raw.github.com/Cerber2ol8/2dGameDemo/master/imgs/combat.gif)
+![image](https://github.com/Cerber2ol8/2dGameDemo/blob/77d8a53630ad040db495dbab72a656a13dfda977/imgs/combat.gif)
 # 简单背包实现
 ![image](https://raw.github.com/Cerber2ol8/2dGameDemo/master/imgs/04.png)
 
