@@ -21,7 +21,7 @@ actionSpace = {'stand':0,'walk':1,'run':2,'jump':3,'attack':4,'stick':5,
 'dead':11,'combo':12,'con_combo':13,'swordSkill':14}  
 
 # 图像资源加载和处理、序列帧的播放和控制、镜头移动和跟随、地图碰撞检测
-![image](https://raw.github.com/Cerber2ol8/2dGameDemo/master/imgs/normal.gif)
+![image](https://github.com/Cerber2ol8/2dGameDemo/blob/c23c257b41816d506c8e72ffeaf1a6153e151c36/imgs/normal.gif)
 
 # 动作系统combat
 角色碰撞和攻击检测，简单UI（血条动画），简单敌人AI控制
