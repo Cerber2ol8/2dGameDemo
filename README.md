@@ -25,4 +25,4 @@ actionSpace = {'stand':0,'walk':1,'run':2,'jump':3,'attack':4,'stick':5,
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/05.png)
 ![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/06.png)
 文本播放（加载和裁剪字符串并控制实现顺序播放文本，控制播放速度）
-![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/texbox.gif)
+![image](https://github.com/Cerber2ol8/2dGameDemo/blob/master/imgs/textbox.gif)
